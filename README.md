@@ -50,9 +50,29 @@ CONERTENDO STRING
         int vidaMazima = Convert.ToInt32(inputJogador); - 150
 
 Neste exemplo com string, deve ter cuidado com casos de querer converter um texto para um número inteir, pois pode dar mensagem de sintaxe inválida, correndo o risco do jogo quebrar. Quando se quer converter letras para variaveis númericas, não é recomendado usar o Convert.ToInt32(), nem por Cast - (int).
+Quando se quer converter letras em números, existe uma tabela, chamada Tabela ASCII. Nesta tabela, cada letra é representada por um número, quando se puxa Console.WriteLine(), o que será imprimido é a representação númerica desta letra.
+   
+   Código ASCII/Unicode
+            
+         char letra = 'a';
+         int codigo = (int)letra;
 
+         Console.WriteLine(codigo); // 97
+   Nas a linha 19 a 22 do código anexado, poderá ser visto o uso real e prático desta tabela, utilizei as variáveis char no exemplo. Já a string, ela pede um código diferente, visto nas linhas 24 a 28, graças ao seu maior numeros de caracteres. A representação a seguir, mostra seu uso corretamente com a tabela:
 
-EXEMPLOS REAIS (string para int)
+         string texto = "abc";
+         foreach (char c in texto)
+         {
+         Concole.WriteLine($"'{c}'={(int)c}");
+         }
+      
+Aparecerá no terminal:
+'a' = 97
+'b' = 98
+'c' = 99
+Essa sendo a forma correta
+
+EXEMPLOS REAIS (string para int, numerico)
 
 Vamos imaginar que tem um cofre a sua frente, e esta pedindo uma senha númerica, logo você solicita uma senha:
 

@@ -58,7 +58,7 @@ Quando se quer converter letras em números, existe uma tabela, chamada Tabela A
          int codigo = (int)letra;
 
          Console.WriteLine(codigo); // 97
-   Nas a linha 19 a 22 do código anexado, poderá ser visto o uso real e prático desta tabela, utilizei as variáveis char no exemplo. Já a string, ela pede um código diferente, visto nas linhas 24 a 28, graças ao seu maior numeros de caracteres. A representação a seguir, mostra seu uso corretamente com a tabela:
+   Nas a linha 21 a 25 do código anexado, poderá ser visto o uso real e prático desta tabela, utilizei as variáveis char no exemplo. Já a string, ela pede um código diferente, visto nas linhas 24 a 28, graças ao seu maior numeros de caracteres. A representação a seguir, mostra seu uso corretamente com a tabela:
 
          string texto = "abc";
          foreach (char c in texto)

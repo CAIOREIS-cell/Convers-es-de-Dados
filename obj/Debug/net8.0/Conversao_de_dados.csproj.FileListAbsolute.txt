@@ -1,0 +1,14 @@
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\bin\Debug\net8.0\Conversao_de_dados.exe
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\bin\Debug\net8.0\Conversao_de_dados.deps.json
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\bin\Debug\net8.0\Conversao_de_dados.runtimeconfig.json
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\bin\Debug\net8.0\Conversao_de_dados.dll
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\bin\Debug\net8.0\Conversao_de_dados.pdb
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\obj\Debug\net8.0\Conversao_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\obj\Debug\net8.0\Conversao_de_dados.AssemblyInfoInputs.cache
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\obj\Debug\net8.0\Conversao_de_dados.AssemblyInfo.cs
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\obj\Debug\net8.0\Conversao_de_dados.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\obj\Debug\net8.0\Conversao_de_dados.dll
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\obj\Debug\net8.0\refint\Conversao_de_dados.dll
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\obj\Debug\net8.0\Conversao_de_dados.pdb
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\obj\Debug\net8.0\Conversao_de_dados.genruntimeconfig.cache
+C:\Users\Caio\Desktop\C# Excercicio\Conversao_de_dados\Conversao_de_dados\obj\Debug\net8.0\ref\Conversao_de_dados.dll
